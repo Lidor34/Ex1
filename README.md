@@ -18,13 +18,13 @@ The user enters two numbers in different representations, and the program:
 #### Example:
 
 ##Ex1 class solution:
-Enter a string as number#1 (or "quit" to end the program): 
+## Enter a string as number#1 (or "quit" to end the program): 
 101b2
 num1 = 101b2 is number :true value: 5
-##Enter a string as number#2 (or "quit" to end the program): 
+## Enter a string as number#2 (or "quit" to end the program): 
 A b16
 num2 = Ab16 is number :true value :10
-##Enter a base for output : ( a number [2 - 16])
+## Enter a base for output : ( a number [2 - 16])
 8
 101b2+ Ab16 = 15b8
 101b2* Ab16 = 50b8
